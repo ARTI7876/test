@@ -8,3 +8,6 @@ print('new code')
 
 print('и еще что то написал для закрепления')
 
+for i in range(5):
+    print(f'Это вывод номер {i+1}')
+
